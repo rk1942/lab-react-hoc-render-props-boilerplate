@@ -1,3 +1,6 @@
+*{
+  background-color: bisque;
+}
 .buttons{
   display: flex;
 }
